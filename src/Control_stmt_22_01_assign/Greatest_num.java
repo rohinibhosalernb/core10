@@ -16,7 +16,7 @@ public class Greatest_num {
 			System.out.println("gratest number is "+ a);
 		}
 		else if(b>=a && b>=c) {
-			System.out.println("gratest number is "+ b);
+			System.out.println("gratest number is = "+ b);
 
 		}
 		else

@@ -1,10 +1,5 @@
 package Array_02_02_assign;
 
-/*Write a program to Find Second Largest Number in Array Java.
-For Example:-
-Given arr[] is {25,10,35,15,45} then
-return second larget element is '15'*/
-
 public class Second_largest_no {
 
 	public static void main(String[] args) {
